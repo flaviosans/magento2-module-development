@@ -17,5 +17,11 @@ class TestCommand extends Command
     protected function execute(InputInterface $input, OutputInterface $output)
     {
         $output->writeln('Olá magenteiro');
+        $output->writeln($this->formatText('>>>', '<<<'));
+    }
+
+    public function formatText($prefix, $suffix)
+    {
+        return $prefix . "Estou muito louco" . $suffix;
     }
 }
