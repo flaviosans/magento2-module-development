@@ -246,6 +246,7 @@ return [
         'MSP_DevTools' => 1,
         'Magento_PaypalReCaptcha' => 1,
         'MSP_TwoFactorAuth' => 1,
+        'Magenteiro_MinhaPreferencia' => 1,
         'Magenteiro_PrimeiroModulo' => 1,
         'Magenteiro_PrimeiroPlugin' => 1,
         'Temando_Shipping' => 1,
