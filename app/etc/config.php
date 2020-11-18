@@ -250,6 +250,7 @@ return [
         'Magenteiro_Observer' => 1,
         'Magenteiro_PrimeiroModulo' => 1,
         'Magenteiro_PrimeiroPlugin' => 1,
+        'Magenteiro_ProductAttribute' => 0,
         'Temando_Shipping' => 1,
         'Vertex_Tax' => 1,
         'Yotpo_Yotpo' => 1
