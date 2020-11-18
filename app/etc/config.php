@@ -251,6 +251,7 @@ return [
         'Magenteiro_PrimeiroModulo' => 1,
         'Magenteiro_PrimeiroPlugin' => 1,
         'Magenteiro_ProductAttribute' => 0,
+        'Magenteiro_PromoTops' => 1,
         'Temando_Shipping' => 1,
         'Vertex_Tax' => 1,
         'Yotpo_Yotpo' => 1
