@@ -10,7 +10,8 @@ class TestCommand extends Command
 {
     protected function configure()
     {
-        $this->setName('magenteiro:teste')->setDescription("Nosso primeiro comando");
+        $this->setName('magenteiro:teste')
+            ->setDescription("Nosso primeiro comando");
         parent::configure();
     }
 
